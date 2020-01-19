@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#DC143C</color>
+    <color name="colorPrimaryDark">#8B0000</color>
+    <color name="colorAccent">#A9A9A9</color>
+    <color name="colorButtonPressedAccent">#CD5C5C</color>
+    <color name="colorButtonTransparentPressed">#26000000</color>
+
+    <color name="grey_basic">#DCDCDC</color>
+
+    <color name="colorBottomNav">#e9eaf2</color>
+    <color name="colorBottomNavEmpty">#a5949aab</color>
+</resources>
